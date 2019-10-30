@@ -27,7 +27,7 @@ In progress
 
 If you use this repository consider citing our [ paper ](https://arxiv.org/pdf/1907.06147.pdf)
 
-@article{ahmad2019thirdeye,
+``` @article{ahmad2019thirdeye,
   title={ThirdEye: Triplet Based Iris Recognition without Normalization},
   author={Ahmad, Sohaib and Fuller, Benjamin},
   journal={arXiv preprint arXiv:1907.06147},
