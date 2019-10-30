@@ -17,6 +17,7 @@ The recognition pipeline works on the outputs of the [segmentation pipeline](htt
   * class2
     * iris1_class1
     * iris2_class1
+
 Left and right irises are different classes due to them being statistically different.
 
 
