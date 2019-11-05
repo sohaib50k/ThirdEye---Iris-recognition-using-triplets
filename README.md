@@ -22,8 +22,7 @@ Left and right irises are different classes due to them being statistically diff
 
 
 # Testing process
-In progress
-
+The testing pipeling requires a single folder with iris images with the Notre Dame format. The provided script outputs visualizations such as correlation between feature vectors and histogram of distances. Other visualizations such as tsne are still pending. The Notre Dame iris dataset file format : "02463d1000l.png", where 02463 is the subject number, 1000 is the image number and l signifies the left iris.
 
 If you use this repository consider citing our [ paper ](https://arxiv.org/pdf/1907.06147.pdf)
 
