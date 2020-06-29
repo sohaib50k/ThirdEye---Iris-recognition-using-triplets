@@ -29,6 +29,7 @@ If you use this repository consider citing our [ paper ](https://arxiv.org/pdf/1
 ``` @article{ahmad2019thirdeye,
   title={ThirdEye: Triplet Based Iris Recognition without Normalization},
   author={Ahmad, Sohaib and Fuller, Benjamin},
-  journal={arXiv preprint arXiv:1907.06147},
-  year={2019}
+  booktitle={2019 IEEE 10th International Conference on Biometrics Theory, Applications and Systems (BTAS)},
+  year={2019},
+  organization={IEEE}
 }
