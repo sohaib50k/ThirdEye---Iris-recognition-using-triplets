@@ -43,7 +43,7 @@ thresh =0.20
 far = []
 frr = []
 frrTrue = []
-for x in range(50):
+for x in range(80):
     lstDiv = redList.shape[0]//8
 
     retVal = pool.map(checkThresh,((thresh,redList[:lstDiv]),(thresh,redList[lstDiv:lstDiv*2]),(thresh,redList[lstDiv*2:lstDiv*3]),(thresh,redList[lstDiv*3:lstDiv*4]),(thresh,redList[lstDiv*4:lstDiv*5]),(thresh,redList[lstDiv*5:lstDiv*6]),(thresh,redList[lstDiv*6:lstDiv*7]),(thresh,redList[lstDiv*7:redList.shape[0]])))
