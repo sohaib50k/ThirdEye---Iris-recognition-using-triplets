@@ -30,11 +30,11 @@ There are two plots of note which the code outputs.
 
 Histogram of distances for the ND dataset:
 
-![Histogram of distances](https://i.ibb.co/h8b7wfg/ND-hist.png =250x250)
+![Histogram of distances](https://i.ibb.co/h8b7wfg/ND-hist.png)
 
 FAR/FRR plot for the ND dataset:
 
-![Histogram of distances](https://i.ibb.co/MBxQ2j9/plot.png =250x250)
+![Histogram of distances](https://i.ibb.co/MBxQ2j9/plot.png)
 
 
 If you use this repository consider citing our [ paper ](https://arxiv.org/pdf/1907.06147.pdf)
