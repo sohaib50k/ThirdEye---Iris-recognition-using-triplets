@@ -34,7 +34,7 @@ Histogram of distances for the ND dataset:
 
 FAR/FRR plot for the ND dataset:
 
-![Histogram of distances](https://ibb.co/RjkdvM7)
+![Histogram of distances](https://i.ibb.co/MBxQ2j9/plot.png)
 
 
 If you use this repository consider citing our [ paper ](https://arxiv.org/pdf/1907.06147.pdf)
