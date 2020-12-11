@@ -39,10 +39,11 @@ FAR/FRR plot for the ND dataset:
 
 If you use this repository consider citing our [ paper ](https://arxiv.org/pdf/1907.06147.pdf)
 
-``` @article{ahmad2019thirdeye,
-  title={ThirdEye: Triplet Based Iris Recognition without Normalization},
-  author={Ahmad, Sohaib and Fuller, Benjamin},
-  booktitle={2019 IEEE 10th International Conference on Biometrics Theory, Applications and Systems (BTAS)},
-  year={2019},
-  organization={IEEE}
-}
+``` @INPROCEEDINGS{9185998,  author={S. {Ahmad} and B. {Fuller}}, 
+booktitle={2019 IEEE 10th International Conference on Biometrics Theory, Applications and Systems (BTAS)},   
+title={ThirdEye: Triplet Based Iris Recognition without Normalization},   
+year={2019},  
+volume={},  
+number={},  
+pages={1-9},  
+doi={10.1109/BTAS46853.2019.9185998}}
